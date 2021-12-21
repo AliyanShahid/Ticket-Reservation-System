@@ -1,0 +1,20 @@
+F1
+To: ISLAMABAD
+From: LAHORE
+SEAT NUMBER: 20
+Date Of flight: 22-12-21
+F2
+To: ISLAMABAD
+From: KARACHI
+SEAT NUMBER: 21
+Date Of flight: 23-12-21
+F3
+To: LONDON
+From: LAHORE
+SEAT NUMBER: 22
+Date Of flight: 29-12-21
+F4
+To: DUBAII
+From: LAHORE
+SEAT NUMBER: 50
+Date Of flight: 30-12-21

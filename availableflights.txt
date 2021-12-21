@@ -1,0 +1,6 @@
+---------------------------------------------AVAIALABLE FLIGHTS----------------
+| 	FLIGHT           |  DATE OF FLIGHT | SEATS AVAILABLE  |     FARE      |
+| 1. ISLAMABAD TO LAHORE |  12-09-21       | 	20	      |	   1,0000     |
+| 2. LAHORE TO KARACHI   |  21-02-22       | 	30	      |    9,000      |      
+| 3. ISLAMABAD TO LONDON |  23-01-21       |	40	      |    75,000     |
+-------------------------------------------------------------------------------		
